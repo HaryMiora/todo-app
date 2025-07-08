@@ -1,23 +1,2 @@
-# Dépendances
 node_modules/
-
-# Build (Vite -> dist)
-dist/
-
-# Variables d’environnement
 .env
-
-# Vite & caches
-.vite/
-.cache/
-
-# Rapports de couverture
-coverage/
-
-# Logs
-*.log
-
-# IDE & système
-.vscode/
-.idea/
-.DS_Store
