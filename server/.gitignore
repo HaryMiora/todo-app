@@ -1,0 +1,33 @@
+# Dépendances
+node_modules/
+
+# Build (Nest JS -> dist)
+dist/
+
+# Logs & rapports
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+lerna-debug.log*
+report.[0-9]*.json
+
+# Fichiers PIDs
+pids/
+*.pid
+*.pid.lock
+
+# Tests & couverture
+coverage/
+
+# Variables d’environnement
+.env
+
+# Caches
+.cache/
+.nyc_output/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
